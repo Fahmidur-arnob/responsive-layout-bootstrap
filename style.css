@@ -1,0 +1,12 @@
+.okay {
+    background-color: rgb(229, 253, 245);
+}
+
+.container {
+    background-image: linear-gradient(rgb(235, 233, 244), rgb(235, 235, 235));
+    border-radius: 10px;
+}
+
+h1 {
+    border-radius: 30px;
+}
